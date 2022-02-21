@@ -5,6 +5,9 @@
 Egy játék során célba dobnak a versenyzők. A cél a 100 pontos dobás. Van aki többet dob. Van aki kevesebbet. Van aki eltalálja a célt.
 Kérje be a versenyző dobásának értékét! 
 
+Határozza meg a cél és az elért dobás különbségét (negatív szám is lehet).
+Határozza meg a dobás eltérését (a különbség abszolút értéke).
+
 Jelenítse meg az eredményt a következő formába:
 1. minta
 ```
